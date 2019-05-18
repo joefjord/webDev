@@ -70,10 +70,6 @@ dd {
   border:1px solid rgba(0,0,0,0.1);
 }
 
-  /*===========================
-      Ids
-    =========================== */
-
 .Active_learning_exploring_the_code_for_our_example {
     background-color: rgba(0, 0, 0, 0.8);
     color: rgba(255, 255, 255, 0.9);
@@ -82,3 +78,11 @@ dd {
     padding: 35px;
     margin-top: 60px;
 }
+
+.summary {
+  margin-bottom: 50px;
+}
+
+  /*===========================
+      Ids
+    =========================== */
